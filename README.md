@@ -1,4 +1,4 @@
-coursera_functional_scala
+functional_scala
 =========================
 
-Programming Assignments From Coursera's Functional Scala Class
+Programming Assignments From Functional Scala Class
